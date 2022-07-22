@@ -1,0 +1,16 @@
+link = https://pyimagesearch.mykajabi.com/products/pyimagesearch-university-full-access-plan/categories/4671953/posts/15698937
+
+5 lessons
+
+https://www.pyimagesearch.com/2021/04/17/what-is-deep-learning/?_ga=2.203862352.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/04/17/image-classification-basics/?_ga=2.203862352.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/04/17/the-deep-learning-classification-pipeline/?_ga=2.238384960.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2021/04/17/your-first-image-classifier-using-k-nn-to-classify-images/?_ga=2.238384960.1314483661.1636632308-1011363675.1636632308
+
+https://www.pyimagesearch.com/2016/08/22/an-intro-to-linear-classification-with-python/?_ga=2.238384960.1314483661.1636632308-1011363675.1636632308
+
+
+
